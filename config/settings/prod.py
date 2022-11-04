@@ -8,5 +8,5 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'bioibnbayo.herokuapp.com'
+    'rocky-hamlet-16749.herokuapp.com'
 ]
